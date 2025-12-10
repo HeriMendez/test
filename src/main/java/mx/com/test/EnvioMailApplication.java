@@ -9,6 +9,7 @@ public class EnvioMailApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EnvioMailApplication.class, args);
 		System.out.println("Hello world");
+		//comentario de prueba
 	}
 
 }
